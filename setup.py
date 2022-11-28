@@ -11,7 +11,7 @@ setuptools.setup(
     description = "A package with some helper scripts",
     long_description = long_description,
     long_description_content_type = "text/markdown",
-    url = "package URL",
+    url = "https://github.com/joshnicholas/sudulunu",
     project_urls = {
         "Bug Tracker": "package issues URL",
     },
