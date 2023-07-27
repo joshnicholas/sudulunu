@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
 Name: sudulunu
-Version: 0.0.3
+Version: 0.1.0
 Summary: A package with some helper scripts
 Home-page: https://github.com/joshnicholas/sudulunu
 Author: Josh Nicholas
 Author-email: Josh <josh@thambi.li>
-Project-URL: Homepage, https://github.com/pypa/sampleproject
-Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
+Project-URL: Homepage, https://github.com/joshnicholas/sudulunu
+Project-URL: Bug Tracker, https://github.com/joshnicholas/sudulunu
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent

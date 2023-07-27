@@ -8,3 +8,4 @@ src/sudulunu.egg-info/PKG-INFO
 src/sudulunu.egg-info/SOURCES.txt
 src/sudulunu.egg-info/dependency_links.txt
 src/sudulunu.egg-info/top_level.txt
+tests/test_helpers.py
