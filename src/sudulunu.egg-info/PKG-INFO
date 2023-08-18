@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: sudulunu
-Version: 0.1.0
+Version: 0.1.1
 Summary: A package with some helper scripts
 Home-page: https://github.com/joshnicholas/sudulunu
 Author: Josh Nicholas
@@ -14,9 +14,9 @@ Requires-Python: >=3.9
 Description-Content-Type: text/markdown
 License-File: LICENSE
 
-# Example Package
+# A bunch of helper scripts
 
-This is a simple example package. You can use
-[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-to write your content.
+This is pretty much entirely for my own use so I'm not going to write any docs. There's a bunch of helper scripts for things I often need to do with pandas/merging/fuzzymatching/working with local files. 
+
+
 
